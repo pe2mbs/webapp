@@ -25,6 +25,6 @@ flask_marshmallow
 marshmallow-sqlalchemy
 # for postgresql
 # psycopg2==2.7.5
-lxml==4.2.5
+lxml==4.6.5
 pyyaml
 deprecated
